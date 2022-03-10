@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Michal 👋
+
+### i'm a Frontend Developer
+
+### Connect with me:
 
 <!--
 **TenMichal/TenMichal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
