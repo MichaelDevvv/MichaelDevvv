@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Frontend developer</h3>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React.js**
 
 ## 🚀 Languages and Tools:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,7 +20,7 @@
 ## 📊 My Github Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenMichal&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenMichal&layout=compact&theme=dracula&bg_color=#ddd)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TenMichal&show_icons=true&theme=dracula&count_private=true&hide=prs,issues,stars)
 
