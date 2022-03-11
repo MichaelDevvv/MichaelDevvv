@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eric</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Michal</h1>
 <h3 align="center">I'm a Frontend developer</h3>
 
 ## 🙋‍♂️ About Me
@@ -23,6 +23,6 @@
 ## 📊 My Github Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenMichal&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenMichal&layout=compact&theme=dracula)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TenMichal&show_icons=true&theme=dracula)
