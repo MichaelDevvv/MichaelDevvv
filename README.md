@@ -20,7 +20,7 @@
 ## 📊 My Github Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenMichal&layout=compact&bg_color=90,#3f5efb,#fc466b)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenMichal&layout=compact&theme=dracula&text_color=#fff)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TenMichal&show_icons=true&theme=dracula&count_private=true&hide=prs,issues,stars)
 
