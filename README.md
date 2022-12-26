@@ -16,12 +16,12 @@
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <p align="center">
-        <img alt="Michal" src="https://github-readme-streak-stats.herokuapp.com/?user=TenMichal&theme=dracula"/>
+        <img alt="Michal" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelDevvv&theme=dracula"/>
 </p>
 
 ## 📊 My Github Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TenMichal&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDevvv&layout=compact&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TenMichal&show_icons=true&theme=dracula&count_private=true&hide=prs,issues,stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelDevvv&show_icons=true&theme=dracula&count_private=true&hide=prs,issues,stars)
