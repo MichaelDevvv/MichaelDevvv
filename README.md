@@ -12,7 +12,7 @@
 </ul>
 
 
-## 🌱 Main Stack**
+## 🌱 Main Stack
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -59,6 +59,9 @@
 </details>
 
 <details> <summary> <b>📈 GitHub Stats </b> </summary>
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickTheDev&layout=compact&theme=dracula)
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickTheDev&show_icons=true&theme=dracula&count_private=true&hide=prs,issues,stars)
+        
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickTheDev&show_icons=true&theme=dracula)
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickTheDev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
