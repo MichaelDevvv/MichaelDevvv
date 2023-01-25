@@ -63,6 +63,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickTheDev&show_icons=true&theme=dracula)
 
 <img alt="Michal" src="https://github-readme-streak-stats.herokuapp.com/?user=MickTheDev&theme=dracula">
+	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickTheDev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
