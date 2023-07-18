@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 <ul>
-  <li> 👦 I am 17 years old</li>
+  <li> 👦 I am 18 years old</li>
 
   <li> 🌱 I am currently learning React.js</li>
 </ul>
